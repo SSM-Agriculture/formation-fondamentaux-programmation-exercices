@@ -26,3 +26,49 @@ editor:
 ---
 
 ## Exercice 1
+
+## Exercice 1 - correction
+
+## Exercice 2
+
+## Exercice 2 - correction
+
+## Exercice 3
+
+## Exercice 3 - correction
+
+## Exercice 4
+
+## Exercice 4 - correction
+
+## Exercice 5
+
+## Exercice 5 - correction
+
+## Exercice 7
+
+## Exercice 7 - correction
+
+## Exercice 8
+
+## Exercice 8 - correction
+
+## Exercice 9 - objectif
+
+## Exercice 9 - objectif
+
+## Exercice 9 - données à disposition
+
+## Exercice 9 - analyser les données
+
+## Exercice 9 - préparer les données unitaires
+
+## Exercice 9 - agrégation des données
+
+## Exercice 9 - préparation du tableau de résultat
+
+## Exercice 9 - finalisation du tabeau de résultat
+
+## Exercice 10 - Objectif
+
+## Exercice 10 - Corrigé
