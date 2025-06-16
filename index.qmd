@@ -530,7 +530,14 @@ Ce tableau contient les cumuls de surface par région (nouvelle organisation adm
 
 ![](img/exercice9_final.png){fig-align="center"}
 
-
 ## Exercice 10 - Objectif
+
+**Finalité :**   
+- Construire ce tableau à partir du tableau résultat de l’exercice précédent  
+
+![](img/exercice10.png){fig-align="center"}  
+  
+Ce tableau contient les mêmes informations que le tableau de l’exercice précédent mais les saisons de semis sont présentées en colonnes. 
+
 
 ## Exercice 10 - Corrigé
