@@ -439,7 +439,34 @@ Ce tableau contient …
 Les valeurs de la colonne … du tableau … correspondent aux valeurs de la colonne … du tableau …
 
 
-## Exercice 9 - préparer les données unitaires
+## Exercice 9 - préparer les données unitaires (1/2)
+
+**Etape 2 : préparation des données unitaires utiles à la construction du résultat**  
+
+A partir du tableau des données ASSOLEMENT :  
+- Restreindre les données aux colonnes utiles pour le résultat  
+    => Sélection de colonnes/variables  
+
+- Ajouter les données manquantes à partir des autres tableaux  
+    => Appariement / Enrichissement par jointure avec présence d’ une clé commune  
+
+- Supprimer les données non pertinentes pour le résultat   
+    => Sélection de colonnes/variables  
+    => Filtre sur les données  
+
+
+## Exercice 9 - préparer les données unitaires (2/2)
+
+::: columns
+::: {.column width="50%"}
+Les jointures à partir du code département entraînent l’ajout des données des régions (anciennes et nouvelles). Les données liées à l’ancienne organisation administrative ont été supprimées.
+:::
+
+::: {.column width="50%"}
+![](img/exercice9_prepa.png){fig-align="center"}  
+:::
+:::
+
 
 ## Exercice 9 - agrégation des données
 
