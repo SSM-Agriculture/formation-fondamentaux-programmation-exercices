@@ -365,6 +365,26 @@ Il n’est pas nécessaire de prévoir le cas où l’utilisateur saisirait une 
 
 ## Exercice 7 - correction
 
+
+**ALGORITHME** AfficheLibelleMois  
+
+**VARIABLES**  
+    CodeMois : ENTIER
+		
+**DEBUT**   
+    Afficher « Saisissez un chiffre compris entre 3 et 6 »  
+    MettreEnMemoire CodeMois  
+
+    SELON CodeMois FAIRE  
+        CAS 3 : Afficher « Mars »  
+        CAS 4 : Afficher « Avril »  
+        CAS 5 : Afficher « Mai »  
+        CAS 6 : Afficher « Juin »  
+        AUTREMENT : Afficher « Consigne non respectée »  
+    FIN SELON  
+**FIN**
+
+
 ## Exercice 8
 
 ## Exercice 8 - correction
