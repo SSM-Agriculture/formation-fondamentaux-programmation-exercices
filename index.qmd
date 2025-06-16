@@ -541,3 +541,10 @@ Ce tableau contient les mêmes informations que le tableau de l’exercice préc
 
 
 ## Exercice 10 - Corrigé
+
+
+Passer les modalités de la variable « SAISON_SEMIS » en colonnes et affecter à ces colonnes les valeurs de la variable « CUMUL_SURFACE »  
+  
+**Transposer une table**
+
+
