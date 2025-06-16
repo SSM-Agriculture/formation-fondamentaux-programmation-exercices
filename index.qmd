@@ -165,8 +165,7 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
 - Connaître le nombre de points rouges et de points verts rencontrés sur le parcours  
 
 **Noms des variables choisi pour l’exercice :** NbRouges et NbVerts 
-
-
+  
 ::: columns
 ::: {.column width="50%"}
 **ALGORITHME Parcours-4**  
@@ -189,6 +188,41 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
 
 
 ## Exercice 4 - correction
+
+
+::: columns
+::: {.column width="50%"}
+**ALGORITHME Parcours-4**  
+
+[**VARIABLES**]{.blue}  
+    [NbRouges : ENTIER]{.blue}  
+    [NbVerts : ENTIER]{.blue}  
+  		
+**DEBUT**    
+    [NbRouges <- 0]{.blue}  
+    [NbVerts <- 0]{.blue}  
+    Avancer d’une case  
+    [NbRouges <- NbRouges + 2]{.blue}  
+    [NbVerts <- NbVerts + 1]{.blue}  
+    Tourner à gauche  
+    Avancer d’une case  
+    [NbVerts <- NbVerts + 1]{.blue}  
+    Tourner à droite  
+    Avancer d’une case  
+    [NbVerts <- NbVerts + 2]{.blue}  
+    [NbRouges <- NbRouges + 1]{.blue}  
+    Tourner à droite  
+    Avancer d’une case	  
+**FIN**
+:::
+
+::: {.column width="50%"}
+![](img/exercice4_corrige.png){fig-align="center"}
+[**Valeurs finales :**]{.blue}  
+[NbRouges = 3]{.blue}  
+[NbVerts = 4]{.blue}  
+:::
+:::
 
 ## Exercice 5
 
