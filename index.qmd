@@ -113,7 +113,48 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
 
 ## Exercice 3
 
+**Trouver l’erreur et corriger Parcours-3**  
+
+::: columns
+::: {.column width="50%"}
+**ALGORITHME Parcours-3**  
+
+**DEBUT**  
+    - Avancer d’une case  
+    - Tourner à gauche  
+    - Avancer d’une case  
+    - Tourner à droite  
+    - Tourner à droite  
+    - Avancer d’une case	  
+**FIN**
+:::
+
+::: {.column width="50%"}
+![](img/exercice3.png){fig-align="center"}
+:::
+:::
+
 ## Exercice 3 - correction
+
+::: columns
+::: {.column width="50%"}
+**ALGORITHME Parcours-3**  
+
+**DEBUT**  
+    - Avancer d’une case  
+    - Tourner à gauche  
+    - Avancer d’une case  
+    - Tourner à droite  
+    - [Avancer d'une case]{.blue}  
+    - Tourner à droite  
+    - Avancer d’une case	  
+**FIN**
+:::
+
+::: {.column width="50%"}
+![](img/exercice3.png){fig-align="center"}
+:::
+:::
 
 ## Exercice 4
 
