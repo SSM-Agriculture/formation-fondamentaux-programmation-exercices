@@ -470,6 +470,23 @@ Les jointures à partir du code département entraînent l’ajout des données 
 
 ## Exercice 9 - agrégation des données
 
+**Etape 3 :** agréger les données  
+
+- Choisir les colonnes de regroupement pour les calculs  
+    => **Sélection des colonnes/variables de regroupement**  
+
+- Effectuer le calcul nécessaire pour le résultat (cumul des surfaces)  
+    => **Agrégation des données (somme)**
+
+
+![](img/exercice9_agreg.png){fig-align="center"}  
+
+Ce tableau contient les cumuls de surface par région (nouvelle organisation administrative) et saison de semis pour toutes les parcelles référencées dans le tableau « Assolement ».   
+=> Aucune restriction n’a été faite par région ou saison de semis.  
+=> Aucun classement des données par ordre alphabétique n’a été fait.  
+=> Tous les croisements région/saison de semis attendus dans le tableau des résultats ne sont pas référencés  
+
+
 ## Exercice 9 - préparation du tableau de résultat
 
 ## Exercice 9 - finalisation du tabeau de résultat
