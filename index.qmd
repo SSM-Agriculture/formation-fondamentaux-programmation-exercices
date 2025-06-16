@@ -244,7 +244,8 @@ Temps initial : beau temps
 :::
 
 ::: {.column width="45%"}
-![](img/exercice5.png){fig-align="center"}
+![](img/exercice5.png){fig-align="center"}  
+  
 [**Valeurs finales :**]{.blue}  
 [NbRouges = 3]{.blue}  
 [NbVerts = 4]{.blue}  
@@ -304,14 +305,34 @@ Temps initial : beau temps
 :::
 
 ::: {.column width="45%"}
-![](img/exercice5.png){fig-align="center"}
+![](img/exercice5.png){fig-align="center"}  
+  
+  
 [**Valeurs finales :**]{.blue}  
 [NbRouges = 3]{.blue}  
 [NbVerts = 4]{.blue}  
 :::
 :::
 
+## Exercice 6
+
+**Eligibilité des exploitations à la PAC**  
+
+En 2023, de façon très simplifiée, des primes PAC sont attribuées à un exploitant qui cumule les conditions :  
+  
+- Être un agriculteur actif (ne pas avoir fait valoir ses droits à la retraite)  
+- Respecter au moins une des 3 voies d’accès à un écorégime ou avoir une exploitation ayant une superficie de moins de 10ha (surface agricole utile)  
+- Disposer de 4% minimum des terres arables dédié à des infrastructures agro-écologiques ou jachères  
+
+![](img/exercice6.png){fig-align="center"}  
+  
+Ces exploitants sont-ils éligibles à des primes PAC ?
+
+## Exercice 6 - correction
+
 ## Exercice 7
+
+
 
 ## Exercice 7 - correction
 
