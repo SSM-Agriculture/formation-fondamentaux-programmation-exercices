@@ -511,7 +511,7 @@ Ce tableau contient les cumuls de surface par région (nouvelle organisation adm
 :::
 
 ::: {.column width="70%"}
-![](img/exercice9_prepa_tableau.png){fig-align="center"}
+![](img/exercice9_prepa_tableau.png){fig-align="center"}  
 3 valeurs différentes pour les libellés de régions  
 4 valeurs différentes pour les saisons de semis  
 => 12 croisements possibles (3*4)  
@@ -519,6 +519,17 @@ Ce tableau contient les cumuls de surface par région (nouvelle organisation adm
 :::
 
 ## Exercice 9 - finalisation du tabeau de résultat
+
+**Etape 5 :** remplissage du tableau des résultats   
+
+- Enrichir le tableau des croisements région/saison de semis avec le cumul des surfaces calculé à partir des données « Assolement »  
+    => **Appariement / Enrichissement par jointure avec présence d’une clé commune**  
+
+- Remplacement des valeurs manquantes par des 0 pour les cumuls de surface  
+    => **Modification des valeurs d’une variable**
+
+![](img/exercice9_final.png){fig-align="center"}
+
 
 ## Exercice 10 - Objectif
 
