@@ -408,7 +408,12 @@ Il n’est pas nécessaire de prévoir le cas où l’utilisateur saisirait une 
 
 ## Exercice 9 - objectif
 
-## Exercice 9 - objectif
+**Finalité :**   
+- Construire ce tableau à partir des données mises à disposition  
+
+![](img/exercice9.png){fig-align="center"}  
+Ce tableau contient la superficie en hectares ensemencée pour chaque saison dans les régions Bretagne, Centre Val de Loire et Occitanie. Les régions et les saisons sont classées par ordre alphabétique. Les semis pouvant être réalisés à n’importe quel moment de l’année sont exclus.
+
 
 ## Exercice 9 - données à disposition
 
