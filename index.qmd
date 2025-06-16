@@ -387,6 +387,21 @@ Il n’est pas nécessaire de prévoir le cas où l’utilisateur saisirait une 
 
 ## Exercice 8
 
+**Ecrire l’algorithme « AfficheLibelleSaison »**  
+
+**Finalités :**   
+- Demander la saisie d’un nombre entre 1 et 12 à un utilisateur  
+- Récupérer la valeur saisie par l’utilisateur  
+- Afficher le libellé de la saison correspondant au nombre saisi  
+
+**Instructions disponibles :**    
+- Afficher (= écrire à l’écran)  
+- MettreEnMemoire <NomVariable> (= récupérer la valeur saisie par l’utilisateur et initialiser la valeur de <NomVariable>)  
+
+**Nom de la variable choisi pour l’exercice : CodeMois**  
+
+Il n’est pas nécessaire de prévoir le cas où l’utilisateur saisirait une valeur qui ne serait pas un entier (caractère, nombre décimal, pas de valeur …) .
+
 ## Exercice 8 - correction
 
 ## Exercice 9 - objectif
