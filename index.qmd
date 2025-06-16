@@ -404,6 +404,8 @@ Il n’est pas nécessaire de prévoir le cas où l’utilisateur saisirait une 
 
 ## Exercice 8 - correction
 
+![](img/exercice8_corrige.png){fig-align="center"}  
+
 ## Exercice 9 - objectif
 
 ## Exercice 9 - objectif
