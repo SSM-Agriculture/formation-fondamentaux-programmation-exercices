@@ -421,6 +421,24 @@ Ce tableau contient la superficie en hectares ensemencée pour chaque saison dan
 
 ## Exercice 9 - analyser les données
 
+**Etape 1 : observation des données**  
+
+**Analyser la structure et les valeurs des données manipulées :**  
+- Dans les données source (données à disposition)  
+- Dans les données résultat  
+
+Ce tableau contient …  
+
+**Pour chaque tableau de données source :**  
+- définir l’utilité des données pour la constitution du tableau de résultat    
+- définir l’utilité de chaque colonne pour la constitution du tableau de résultat  
+- si des filtres sur les valeurs sont nécessaires, définir les critères de sélection   
+  
+**Répertorier les liens entre les données source nécessaires à la constitution du tableau résultat**   
+
+Les valeurs de la colonne … du tableau … correspondent aux valeurs de la colonne … du tableau …
+
+
 ## Exercice 9 - préparer les données unitaires
 
 ## Exercice 9 - agrégation des données
