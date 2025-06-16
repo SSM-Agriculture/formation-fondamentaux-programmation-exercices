@@ -191,7 +191,7 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
 
 
 ::: columns
-::: {.column width="50%"}
+::: {.column width="30%"}
 **ALGORITHME Parcours-4**  
 
 [**VARIABLES**]{.blue}  
@@ -208,6 +208,10 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
     Avancer d’une case  
     [NbVerts <- NbVerts + 1]{.blue}  
     Tourner à droite  
+:::
+
+::: {.column width="20%"}
+**SUITE**  
     Avancer d’une case  
     [NbVerts <- NbVerts + 2]{.blue}  
     [NbRouges <- NbRouges + 1]{.blue}  
@@ -218,6 +222,7 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
 
 ::: {.column width="50%"}
 ![](img/exercice4_corrige.png){fig-align="center"}
+  
 [**Valeurs finales :**]{.blue}  
 [NbRouges = 3]{.blue}  
 [NbVerts = 4]{.blue}  
@@ -227,7 +232,7 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
 ## Exercice 5
 
 ::: columns
-::: {.column width="55%"}
+::: {.column width="65%"}
 **Ecrire l’algorithme Parcours-5**  
 
 **Finalités :**   
@@ -243,8 +248,8 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
 Temps initial : beau temps
 :::
 
-::: {.column width="45%"}
-![](img/exercice5.png){fig-align="center"}  
+::: {.column width="35%"}
+![](img/exercice5.png)  
   
 [**Valeurs finales :**]{.blue}  
 [NbRouges = 3]{.blue}  
@@ -272,6 +277,10 @@ Temps initial : beau temps
     Tourner à gauche  
     Avancer d’une case  
     [MonMot <- MonMot + ‘t’]{.blue}  
+:::
+
+::: {.column width="30%"}
+**SUITE**  
     Avancer d’une case  
     [MonMot <- MonMot + ‘o’]{.blue}  
     [NbVerts <- NbVerts + 1]{.blue}  
@@ -282,31 +291,21 @@ Temps initial : beau temps
     Avancer d’une case  
     [NbVerts <- NbVerts + 2]{.blue}	  
     Tourner à gauche  
-    Avancer d’une case  
 :::
 
-::: {.column width="20%"}
+::: {.column width="40%"}
+**SUITE**  
+    Avancer d’une case 
     [BeauTemps <- VRAI]{.blue}  
     Tourner à gauche  
     Avancer d’une case  
     [MonMot <- MonMot + p’]{.blue}  
     Tourner à droite  
     Avancer d’une case  
-	
-**FIN**  
+    
+![](img/exercice5.png)
 
-  
-  
-  
-[**Valeurs finales :**]{.blue}  
-[NbVerts = 3]{.blue}
-[BeauTemps = FAUX]{.blue}
-[MonMot = « top »]{.blue}
-:::
-
-::: {.column width="45%"}
-![](img/exercice5.png){fig-align="center"}  
-  
+<br>
   
 [**Valeurs finales :**]{.blue}  
 [NbRouges = 3]{.blue}  
@@ -326,7 +325,7 @@ En 2023, de façon très simplifiée, des primes PAC sont attribuées à un expl
 
 ![](img/exercice6.png){fig-align="center"}  
   
-Ces exploitants sont-ils éligibles à des primes PAC ?
+**Ces exploitants sont-ils éligibles à des primes PAC ?**  
 
 ## Exercice 6 - correction (1/2)
 
@@ -365,6 +364,7 @@ Il n’est pas nécessaire de prévoir le cas où l’utilisateur saisirait une 
 
 ## Exercice 7 - correction
 
+<br>
 
 **ALGORITHME** AfficheLibelleMois  
 
@@ -490,31 +490,31 @@ Ce tableau contient les cumuls de surface par région (nouvelle organisation adm
 ## Exercice 9 - préparation du tableau de résultat
 
 ::: columns
-::: {.column width="30%"}
+::: {.column width="70%"}
 **Etape 4 :** préparer les croisements attendus pour le tableau résultat  
 
 - Sélection des libellés de région attendus à partir des données « REGION »  
-    - Filtre sur les données  
-    - Sélection des colonnes/variables  
-    - Renommage de colonne  
-    - Tri des données  
+    - [Filtre sur les données]{.small}  
+    - [Sélection des colonnes/variables]{.small}  
+    - [Renommage de colonne]{.small}  
+    - [Tri des données]{.small}  
 
 - Sélection des saisons de semis attendues à partir des données « CULTURE »  
-    - Sélection des colonnes/variables  
-    - Suppression des doublons  
-    - Filtre sur les données  
-    - Tri des données  
+    - [Sélection des colonnes/variables]{.small}  
+    - [Suppression des doublons]{.small}  
+    - [Filtre et tri sur les données]{.small}  
 
 - Génération de toutes les combinaisons possibles par produit cartésien  
-    - Appariement / Enrichissement par jointure avec absence de clé  
+    - [Appariement / Enrichissement par jointure avec absence de clé]{.small}  
 
 :::
 
-::: {.column width="70%"}
+::: {.column width="30%"}
 ![](img/exercice9_prepa_tableau.png){fig-align="center"}  
-3 valeurs différentes pour les libellés de régions  
-4 valeurs différentes pour les saisons de semis  
-=> 12 croisements possibles (3*4)  
+  
+[3 valeurs différentes pour les libellés de régions]{.tiny}  
+[4 valeurs différentes pour les saisons de semis]{.tiny}  
+[=> 12 croisements possibles (3*4)]{.tiny} 
 :::
 :::
 

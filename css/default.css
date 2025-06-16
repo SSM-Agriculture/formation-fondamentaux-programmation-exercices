@@ -9,6 +9,10 @@
        url("../fonts/Marianne-Medium.otf") format('otf'); /* Chrome 26+, Opera 23+, Firefox 39+ */
 /*}/*
 
+
+/********************Style du texte*********************/
+
+
 .Large { 
   font-size: 144%;
 }
@@ -32,8 +36,6 @@
 .tiny {
   font-size: 60%;
 }
-
-/********************Style du texte*********************/
 
 .bold {
   font-weight: bold;
