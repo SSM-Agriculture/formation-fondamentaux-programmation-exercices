@@ -96,10 +96,10 @@ Instructions disponibles :
 **ALGORITHME Parcours-2**  
 
 **DEBUT**  
-    - Faire un demi-tour  
-    - Avancer d’une case  
-    - Tourner à gauche  
-    - Avancer de 2 cases	  
+    Faire un demi-tour  
+    Avancer d’une case  
+    Tourner à gauche  
+    Avancer de 2 cases	  
 **FIN**
 :::
 
@@ -120,12 +120,12 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
 **ALGORITHME Parcours-3**  
 
 **DEBUT**  
-    - Avancer d’une case  
-    - Tourner à gauche  
-    - Avancer d’une case  
-    - Tourner à droite  
-    - Tourner à droite  
-    - Avancer d’une case	  
+    Avancer d’une case  
+    Tourner à gauche  
+    Avancer d’une case  
+    Tourner à droite  
+    Tourner à droite  
+    Avancer d’une case	  
 **FIN**
 :::
 
@@ -141,13 +141,13 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
 **ALGORITHME Parcours-3**  
 
 **DEBUT**  
-    - Avancer d’une case  
-    - Tourner à gauche  
-    - Avancer d’une case  
-    - Tourner à droite  
-    - [Avancer d'une case]{.blue}  
-    - Tourner à droite  
-    - Avancer d’une case	  
+    Avancer d’une case  
+    Tourner à gauche  
+    Avancer d’une case  
+    Tourner à droite  
+    [Avancer d'une case]{.blue}  
+    Tourner à droite  
+    Avancer d’une case	  
 **FIN**
 :::
 
@@ -157,6 +157,36 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
 :::
 
 ## Exercice 4
+
+**Compléter l’algorithme Parcours-4**  
+
+**Finalités :**  
+- Permettre à la flèche d’atteindre la sortie du labyrinthe  
+- Connaître le nombre de points rouges et de points verts rencontrés sur le parcours  
+
+**Noms des variables choisi pour l’exercice :** NbRouges et NbVerts 
+
+
+::: columns
+::: {.column width="50%"}
+**ALGORITHME Parcours-4**  
+		
+**DEBUT**   
+    Avancer d’une case  
+    Tourner à gauche  
+    Avancer d’une case  
+    Tourner à droite  
+    Avancer d’une case  
+    Tourner à droite  
+    Avancer d’une case	  
+**FIN**
+:::
+
+::: {.column width="50%"}
+![](img/exercice4.png){fig-align="center"}
+:::
+:::
+
 
 ## Exercice 4 - correction
 
