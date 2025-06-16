@@ -343,8 +343,24 @@ La condition combinée « Respecter au moins une des 3 voies d’accès à un é
 
 ## Exercice 6 - correction (2/2)
 
+![](img/exercice6_corrige.png){fig-align="center"}  
+
 ## Exercice 7
 
+**Ecrire l’algorithme « TransfoCodeMois »**  
+
+**Finalités :**   
+- Demander la saisie d’un chiffre entre 3 et 6 à un utilisateur  
+- Récupérer la valeur saisie par l’utilisateur   
+- Afficher le libellé du mois correspondant au nombre saisi  
+
+**Instructions disponibles :**  
+- Afficher (= écrire à l’écran)  
+- MettreEnMemoire <NomVariable> (= récupérer la valeur saisie par l’utilisateur et initialiser la valeur de <NomVariable>)  
+
+**Nom de la variable choisi pour l’exercice : CodeMois**  
+  
+Il n’est pas nécessaire de prévoir le cas où l’utilisateur saisirait une valeur qui ne serait pas un entier (caractère, nombre décimal, pas de valeur …) .
 
 
 ## Exercice 7 - correction
