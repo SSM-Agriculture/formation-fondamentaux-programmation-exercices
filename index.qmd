@@ -227,7 +227,7 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
 ## Exercice 5
 
 ::: columns
-::: {.column width="50%"}
+::: {.column width="55%"}
 **Ecrire l’algorithme Parcours-5**  
 
 **Finalités :**   
@@ -243,7 +243,7 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
 Temps initial : beau temps
 :::
 
-::: {.column width="50%"}
+::: {.column width="45%"}
 ![](img/exercice5.png){fig-align="center"}
 [**Valeurs finales :**]{.blue}  
 [NbRouges = 3]{.blue}  
@@ -252,6 +252,64 @@ Temps initial : beau temps
 :::
 
 ## Exercice 5 - correction
+
+::: columns
+::: {.column width="30%"}
+**ALGORITHME Parcours-5**  
+
+[**VARIABLES**]{.blue}  
+    [NbVerts : ENTIER]{.blue}  
+    [BeauTemps : BOOLEEN]{.blue}  
+    [MonMot : CHAINE DE CARACTERES]{.blue}    
+		
+**DEBUT**  
+    [NbVerts <- 0]{.blue}  
+    [MonMot <- « »]{.blue}  
+    [BeauTemps <- VRAI]{.blue}  
+    Avancer d’une case  
+    [BeauTemps <- FAUX]{.blue}  
+    Tourner à gauche  
+    Avancer d’une case  
+    [MonMot <- MonMot + ‘t’]{.blue}  
+    Avancer d’une case  
+    [MonMot <- MonMot + ‘o’]{.blue}  
+    [NbVerts <- NbVerts + 1]{.blue}  
+    Avancer d’une case  
+    [BeauTemps <- VRAI]{.blue}  
+    Tourner à gauche  
+    Avancer d’une case  
+    Avancer d’une case  
+    [NbVerts <- NbVerts + 2]{.blue}	  
+    Tourner à gauche  
+    Avancer d’une case  
+:::
+
+::: {.column width="20%"}
+    [BeauTemps <- VRAI]{.blue}  
+    Tourner à gauche  
+    Avancer d’une case  
+    [MonMot <- MonMot + p’]{.blue}  
+    Tourner à droite  
+    Avancer d’une case  
+	
+**FIN**  
+
+  
+  
+  
+[**Valeurs finales :**]{.blue}  
+[NbVerts = 3]{.blue}
+[BeauTemps = FAUX]{.blue}
+[MonMot = « top »]{.blue}
+:::
+
+::: {.column width="45%"}
+![](img/exercice5.png){fig-align="center"}
+[**Valeurs finales :**]{.blue}  
+[NbRouges = 3]{.blue}  
+[NbVerts = 4]{.blue}  
+:::
+:::
 
 ## Exercice 7
 
