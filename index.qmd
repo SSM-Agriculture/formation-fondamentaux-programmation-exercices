@@ -27,11 +27,89 @@ editor:
 
 ## Exercice 1
 
+::: columns
+::: {.column width="60%"}
+**Ecrire un algorithme Parcours-1**  
+
+**Finalité :** permettre à la flèche d’atteindre la sortie du labyrinthe  
+
+
+Instructions disponibles :  
+- Avancer d’une case  
+- Tourner à droite (= rotation de 90° vers la droite)
+:::
+
+::: {.column width="40%"}
+![](img/exercice1.png){fig-align="center"}
+:::
+:::
+
 ## Exercice 1 - correction
+
+::: columns
+::: {.column width="30%"}
+**ALGORITHME** Parcours-1  
+
+**DEBUT**  
+    Tourner à droite  
+    Tourner à droite  
+    Avancer d’une case  
+    Tourner à droite  
+    Tourner à droite  
+    Tourner à droite  
+    Avancer d’une case  
+    Avancer d’une case	  
+**FIN**
+:::
+
+::: {.column width="70%"}
+![](img/exercice1_corrige.png){fig-align="center"}
+:::
+:::
 
 ## Exercice 2
 
+::: columns
+::: {.column width="70%"}
+**Ecrire un algorithme Parcours-2**  
+
+**Finalité :** permettre à la flèche d’atteindre la sortie du labyrinthe  
+
+
+**Instructions disponibles :**  
+- Avancer d’une case  
+- Avancer de 2 cases  
+- Tourner à gauche (= rotation de 90° vers la gauche)  
+- Tourner à droite (= rotation de 90° vers la droite)  
+- Faire un demi-tour (= rotation de 180°)  
+:::
+
+::: {.column width="30%"}
+![](img/exercice2.png){fig-align="center"}
+:::
+:::
+
 ## Exercice 2 - correction
+
+::: columns
+::: {.column width="25%"}
+**ALGORITHME Parcours-2**  
+
+**DEBUT**  
+    - Faire un demi-tour  
+    - Avancer d’une case  
+    - Tourner à gauche  
+    - Avancer de 2 cases	  
+**FIN**
+:::
+
+::: {.column width="75%"}
+![](img/exercice2_corrige.png){fig-align="center"}
+:::
+:::
+
+Cette solution correspond à celle optimisée par rapport au nombre d’instructions.  
+Plusieurs variantes sont possibles y compris le bloc d’instructions de l’algorithme Parcours-1.
 
 ## Exercice 3
 
