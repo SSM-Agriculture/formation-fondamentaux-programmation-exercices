@@ -489,6 +489,35 @@ Ce tableau contient les cumuls de surface par région (nouvelle organisation adm
 
 ## Exercice 9 - préparation du tableau de résultat
 
+::: columns
+::: {.column width="30%"}
+**Etape 4 :** préparer les croisements attendus pour le tableau résultat  
+
+- Sélection des libellés de région attendus à partir des données « REGION »  
+    - Filtre sur les données  
+    - Sélection des colonnes/variables  
+    - Renommage de colonne  
+    - Tri des données  
+
+- Sélection des saisons de semis attendues à partir des données « CULTURE »  
+    - Sélection des colonnes/variables  
+    - Suppression des doublons  
+    - Filtre sur les données  
+    - Tri des données  
+
+- Génération de toutes les combinaisons possibles par produit cartésien  
+    - Appariement / Enrichissement par jointure avec absence de clé  
+
+:::
+
+::: {.column width="70%"}
+![](img/exercice9_prepa_tableau.png){fig-align="center"}
+3 valeurs différentes pour les libellés de régions  
+4 valeurs différentes pour les saisons de semis  
+=> 12 croisements possibles (3*4)  
+:::
+:::
+
 ## Exercice 9 - finalisation du tabeau de résultat
 
 ## Exercice 10 - Objectif
