@@ -417,6 +417,8 @@ Ce tableau contient la superficie en hectares ensemencée pour chaque saison dan
 
 ## Exercice 9 - données à disposition
 
+![](img/exercice9_mise_a_disposition.png){fig-align="center"}  
+
 ## Exercice 9 - analyser les données
 
 ## Exercice 9 - préparer les données unitaires
