@@ -226,6 +226,31 @@ Plusieurs variantes sont possibles y compris le bloc d’instructions de l’alg
 
 ## Exercice 5
 
+::: columns
+::: {.column width="50%"}
+**Ecrire l’algorithme Parcours-5**  
+
+**Finalités :**   
+- Permettre à la flèche d’atteindre la sortie du labyrinthe  
+- Connaître le nombre de points verts rencontrés sur le parcours  
+- Connaître le mot constitué par les lettres rencontrées  
+- Connaître l’état de la météo à la sortie du labyrinthe  
+  
+**Noms des variables choisis pour l’exercice : NbVerts, MonMot, BeauTemps**  
+
+![](img/exercice5_cadre.png){.inlineimage} Signale un changement de météo (beau temps / mauvais temps)  
+
+Temps initial : beau temps
+:::
+
+::: {.column width="50%"}
+![](img/exercice5.png){fig-align="center"}
+[**Valeurs finales :**]{.blue}  
+[NbRouges = 3]{.blue}  
+[NbVerts = 4]{.blue}  
+:::
+:::
+
 ## Exercice 5 - correction
 
 ## Exercice 7
