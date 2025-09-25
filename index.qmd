@@ -421,7 +421,7 @@ Les jointures à partir du code département entraînent l’ajout des données 
 ![](img/exercice9_prepar_donnees_unitaires_7.png){fig-align="center"}  
 
 
-## Exercice 9 - agrégation des données
+## Exercice 9 - agrégation des données (1/2)
 
 **Etape 3 :** agréger les données  
 
@@ -439,6 +439,9 @@ Ce tableau contient les cumuls de surface par région (nouvelle organisation adm
 => Aucun classement des données par ordre alphabétique n’a été fait.  
 => Tous les croisements région/saison de semis attendus dans le tableau des résultats ne sont pas référencés  
 
+## Exercice 9 - agrégation des données (2/2)
+
+![](img/exercice9_agreg_2.png){fig-align="center"} 
 
 ## Exercice 9 - préparation du tableau de résultat
 
