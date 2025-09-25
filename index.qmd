@@ -27,22 +27,9 @@ editor:
 
 ## Exercice 1
 
-::: columns
-::: {.column width="60%"}
-**Ecrire un algorithme Parcours-1**  
 
-**Finalité :** permettre à la flèche d’atteindre la sortie du labyrinthe  
-
-
-Instructions disponibles :  
-- Avancer d’une case  
-- Tourner à droite (= rotation de 90° vers la droite)
-:::
-
-::: {.column width="40%"}
 ![](img/exercice1.png){fig-align="center"}
-:::
-:::
+
 
 ## Exercice 1 - correction
 
