@@ -443,7 +443,7 @@ Ce tableau contient les cumuls de surface par région (nouvelle organisation adm
 
 ![](img/exercice9_agreg_2.png){fig-align="center"} 
 
-## Exercice 9 - préparation du tableau de résultat
+## Exercice 9 - préparation du tableau de résultat (1/4)
 
 ::: columns
 ::: {.column width="70%"}
@@ -474,7 +474,22 @@ Ce tableau contient les cumuls de surface par région (nouvelle organisation adm
 :::
 :::
 
-## Exercice 9 - finalisation du tabeau de résultat
+## Exercice 9 - préparation du tableau de résultat (2/4)
+
+![](img/exercice9_croisements.png){fig-align="center"} 
+
+
+## Exercice 9 - préparation du tableau de résultat (3/4)
+
+![](img/exercice9_croisements_2.png){fig-align="center"} 
+
+
+
+## Exercice 9 - préparation du tableau de résultat (4/4)
+
+![](img/exercice9_croisements_3.png){fig-align="center"} 
+
+## Exercice 9 - finalisation du tabeau de résultat (1/3)
 
 **Etape 5 :** remplissage du tableau des résultats   
 
@@ -485,6 +500,14 @@ Ce tableau contient les cumuls de surface par région (nouvelle organisation adm
     => **Modification des valeurs d’une variable**
 
 ![](img/exercice9_final.png){fig-align="center"}
+
+## Exercice 9 - finalisation du tabeau de résultat (2/3)
+
+![](img/exercice9_finalisation_2.png){fig-align="center"}
+
+## Exercice 9 - finalisation du tabeau de résultat (3/3)
+
+![](img/exercice9_finalisation_3.png){fig-align="center"}
 
 ## Exercice 10 - Objectif
 
@@ -503,4 +526,5 @@ Passer les modalités de la variable « SAISON_SEMIS » en colonnes et affecter 
   
 **Transposer une table**
 
+![](img/exercice10_correction.png){fig-align="center"}
 
