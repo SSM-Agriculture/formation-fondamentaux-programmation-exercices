@@ -391,9 +391,14 @@ Les jointures à partir du code département entraînent l’ajout des données 
 :::
 :::
 
-## Exercice 9 - préparation des données unitaires
+## Exercice 9 - préparation des données unitaires (1/2)
 
 ![](img/exercice9_prepar_donnees_unitaires.png){fig-align="center"}  
+
+## Exercice 9 - préparation des données unitaires (2/2)
+
+![](img/exercice9_prepar_donnees_unitaires_2.png){fig-align="center"}  
+
 
 ## Exercice 9 - agrégation des données
 
