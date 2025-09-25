@@ -246,59 +246,9 @@ Temps initial : beau temps
 
 ## Exercice 5 - correction
 
-::: columns
-::: {.column width="30%"}
-**ALGORITHME Parcours-5**  
 
-[**VARIABLES**]{.blue}  
-    [NbVerts : ENTIER]{.blue}  
-    [BeauTemps : BOOLEEN]{.blue}  
-    [MonMot : CHAINE DE CARACTERES]{.blue}    
-		
-**DEBUT**  
-    [NbVerts <- 0]{.blue}  
-    [MonMot <- « »]{.blue}  
-    [BeauTemps <- VRAI]{.blue}  
-    Avancer d’une case  
-    [BeauTemps <- FAUX]{.blue}  
-    Tourner à gauche  
-    Avancer d’une case  
-    [MonMot <- MonMot + ‘t’]{.blue}  
-:::
+![](img/exercice5_correction.png){fig-align="center"}
 
-::: {.column width="30%"}
-**SUITE**  
-    Avancer d’une case  
-    [MonMot <- MonMot + ‘o’]{.blue}  
-    [NbVerts <- NbVerts + 1]{.blue}  
-    Avancer d’une case  
-    [BeauTemps <- VRAI]{.blue}  
-    Tourner à gauche  
-    Avancer d’une case  
-    Avancer d’une case  
-    [NbVerts <- NbVerts + 2]{.blue}	  
-    Tourner à gauche  
-:::
-
-::: {.column width="40%"}
-**SUITE**  
-    Avancer d’une case 
-    [BeauTemps <- VRAI]{.blue}  
-    Tourner à gauche  
-    Avancer d’une case  
-    [MonMot <- MonMot + p’]{.blue}  
-    Tourner à droite  
-    Avancer d’une case  
-    
-![](img/exercice5.png)
-
-<br>
-  
-[**Valeurs finales :**]{.blue}  
-[NbRouges = 3]{.blue}  
-[NbVerts = 4]{.blue}  
-:::
-:::
 
 ## Exercice 6
 
